@@ -1,0 +1,6 @@
+crane_plus_joint1: -2.0000 rad ( -114.6 deg)
+crane_plus_joint2: +0.0000 rad (   +0.0 deg)
+crane_plus_joint3: -0.0000 rad (   -0.0 deg)
+crane_plus_joint4: -0.0000 rad (   -0.0 deg)
+crane_plus_joint_hand: +0.1745 rad (  +10.0 deg)
+手先: x=-0.013 y=+0.006 z=+0.343 m  pitch=+0 deg

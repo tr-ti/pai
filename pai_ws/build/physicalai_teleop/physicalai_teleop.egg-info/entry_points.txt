@@ -1,0 +1,6 @@
+[console_scripts]
+teleop_cartesian = physicalai_teleop.teleop_cartesian:main
+teleop_cartesian_moveit = physicalai_teleop.teleop_cartesian_moveit:main
+teleop_keyboard = physicalai_teleop.teleop_keyboard:main
+teleop_keyboard_task = physicalai_teleop.teleop_keyboard_task:main
+
